@@ -1,0 +1,83 @@
+#post{
+	
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.description{
+	margin-right: 20px;
+}
+#cardS{
+	margin-bottom: 20px;
+}
+
+#bcColour{
+	background-color: #357ff4;
+}
+
+
+
+.jumbotron {
+    margin-bottom: 0px;
+    margin-bottom: 20px;
+    background-image: url(.../img/welcompage_01.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.full {
+    width: 100%;	
+}
+.gap {
+	height: 30px;
+	width: 100%;
+	clear: both;
+	display: block;
+}
+.footer {
+	background: #357ff4;
+	height: auto;
+	padding-bottom: 30px;
+	position: relative;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	border-top: 1px solid #DDDDDD;
+	margin-top: 20px;
+}
+.footer p {
+	margin: 0;
+}
+.footer img {
+	max-width: 100%;
+}
+.footer h3 {
+	margin-left: 10px;
+	border-bottom: 1px solid #BAC1C8;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 27px;
+	padding: 40px 0 10px;
+	text-transform: uppercase;
+}
+.footer ul {
+	font-size: 13px;
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 15px;
+	color: #7F8C8D;
+}
+.footer ul li a {
+	margin-left: 10px;
+	padding: 0 0 5px 0;
+	display: block;
+}
+.footer a {
+	color: #ffffff;
+}
+
+
